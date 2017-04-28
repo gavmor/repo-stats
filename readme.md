@@ -1,6 +1,8 @@
 # RepoStats
 
-Produces a single JSON object representing net deletions, e.g.:
+`./measure.sh ../path/to/git/repo/`
+
+produces a single JSON object representing net deletions, e.g.:
 
 ```
 {
