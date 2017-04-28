@@ -1,4 +1,4 @@
-#!/bin/sh -ex
+#!/bin/sh -e
 
 source ./git-log2json.sh
 source ./git-stat2json.sh
